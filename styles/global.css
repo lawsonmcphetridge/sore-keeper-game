@@ -33,3 +33,24 @@ footer {
     justify-content: flex-end;
     background-color: var(--footer-background);
 }
+
+
+.current-game {
+    border: 2px solid red;
+    height: 200px;
+    width: 300px;
+} */
+ 
+input {
+    display: block;
+}
+.first-input {
+    margin: 5px;
+    margin-bottom: 10px;
+}
+
+.second-input {
+    margin: 5px;
+}
+
+
